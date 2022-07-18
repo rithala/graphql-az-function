@@ -1,0 +1,12 @@
+export { AggregateCustomerCustomerDemoArgs } from "./AggregateCustomerCustomerDemoArgs";
+export { CreateManyCustomerCustomerDemoArgs } from "./CreateManyCustomerCustomerDemoArgs";
+export { CreateOneCustomerCustomerDemoArgs } from "./CreateOneCustomerCustomerDemoArgs";
+export { DeleteManyCustomerCustomerDemoArgs } from "./DeleteManyCustomerCustomerDemoArgs";
+export { DeleteOneCustomerCustomerDemoArgs } from "./DeleteOneCustomerCustomerDemoArgs";
+export { FindFirstCustomerCustomerDemoArgs } from "./FindFirstCustomerCustomerDemoArgs";
+export { FindManyCustomerCustomerDemoArgs } from "./FindManyCustomerCustomerDemoArgs";
+export { FindUniqueCustomerCustomerDemoArgs } from "./FindUniqueCustomerCustomerDemoArgs";
+export { GroupByCustomerCustomerDemoArgs } from "./GroupByCustomerCustomerDemoArgs";
+export { UpdateManyCustomerCustomerDemoArgs } from "./UpdateManyCustomerCustomerDemoArgs";
+export { UpdateOneCustomerCustomerDemoArgs } from "./UpdateOneCustomerCustomerDemoArgs";
+export { UpsertOneCustomerCustomerDemoArgs } from "./UpsertOneCustomerCustomerDemoArgs";
